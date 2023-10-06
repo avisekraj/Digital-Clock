@@ -16,3 +16,6 @@ You may also see any lint errors in the console.
 
 # Screenshot  ### Curson sensor used click on screen to see the effect
 <img width="922" alt="image" src="https://github.com/avisekraj/Digital-Clock/assets/87957824/d6123008-fea6-4ec7-9d4b-49e3e0c52be0">
+
+
+https://avisekraj.github.io/Digital-Clock/
